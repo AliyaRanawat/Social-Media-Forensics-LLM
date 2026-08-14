@@ -1,19 +1,3 @@
-### Recommended Repository Names
-
-Choose one of these clean, standard GitHub names:
-
-* `adaptive-cyberbullying-detection` *(Recommended)*
-* `social-media-forensics-llm`
-* `genz-toxicity-detector`
-* `cyberbullying-forensics-ensemble`
-
----
-
-### Ready-to-Use `README.md`
-
-Copy and paste the entire block below directly into your repository's `README.md` file:
-
-```markdown
 # Social Media Forensics: Adaptive Cyberbullying Detection
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
